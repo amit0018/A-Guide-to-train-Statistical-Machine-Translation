@@ -1,1 +1,1 @@
-# A-Guide-for-Statistical-Machine-Translation
+# A-Guide-to-train-Statistical-Machine-Translation
