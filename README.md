@@ -4,7 +4,7 @@
 
 ./bjam -a --with-boost=/home/amit/smt/boost_1_72_0 --with-cmph=/home/amit/smt/cmph-2.0 -j4
 
--------------SMT Translation Procedure--------
+-------------Pre-Peocessing Part--------
 
 /home/amit/smt/mosesdecoder/scripts/tokenizer/tokenizer.perl -l hi < /home/amit/smt/corpus/train.hi > /home/amit/smt/corpus/train.tok.hi
 
